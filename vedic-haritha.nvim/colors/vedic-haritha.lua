@@ -1,0 +1,1 @@
+require("vedic-haritha").load()
